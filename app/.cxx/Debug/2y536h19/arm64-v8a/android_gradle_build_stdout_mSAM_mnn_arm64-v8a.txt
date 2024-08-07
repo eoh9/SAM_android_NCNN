@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a'
+ninja: no work to do.

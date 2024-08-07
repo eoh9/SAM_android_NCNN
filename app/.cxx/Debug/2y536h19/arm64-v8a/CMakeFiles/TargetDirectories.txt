@@ -1,0 +1,3 @@
+/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/CMakeFiles/mSAM_mnn.dir
+/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/CMakeFiles/rebuild_cache.dir

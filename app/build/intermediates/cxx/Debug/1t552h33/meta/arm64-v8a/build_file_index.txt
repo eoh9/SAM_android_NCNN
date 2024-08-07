@@ -1,0 +1,13 @@
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/CMakeLists.txt
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-config-version.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-config.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-targets-release.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-targets.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/OpenCVConfig-version.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/OpenCVConfig.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVConfig.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVModules-release.cmake
+/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVModules.cmake

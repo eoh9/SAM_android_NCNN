@@ -1,0 +1,5 @@
+ninja: Entering directory `/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/.cxx/Debug/6ny50444/arm64-v8a'
+[1/4] Building CXX object CMakeFiles/mSAM_mnn.dir/ndkcamera.cpp.o
+[2/4] Building CXX object CMakeFiles/mSAM_mnn.dir/jni_intereface.cpp.o
+[3/4] Building CXX object CMakeFiles/mSAM_mnn.dir/sam.cpp.o
+[4/4] Linking CXX shared library /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/build/intermediates/cxx/Debug/6ny50444/obj/arm64-v8a/libmSAM_mnn.so

@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/df63a53b8201b61e35b0f684f2c47f60/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5bda5817c2d3c7a4034191d99db2b3d5/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/eb12f00a73b2d9ebc9dfe125af509ed1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/aa92256759ef0c53a213da8083e00652/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f6bfb8387aa67fa73508f490ecd23a95/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/1b2c2bc523e43a8695e5871c17c75f28/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/d9fc0fd948d60bd590ef43b98aaf7ec1/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f33401e088e03b4906c1e1ee487642e4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f9294253ceb16a4605b1f28d26267b69/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/3d5ce58965b903c0a1e8c29e9c793adb/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a33599820413b39306533ebcc3efaada/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5494538d61a363f20d03ecac1b94dc16/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/cc3b82abf76348c8aa8d82e93666f74c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/af35d399d97042dd6cf76efe70e78b2d/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/56a60aa11c00550ac2067dc311230fea/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5c31521eb266c26ef211a1f53b56b07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/66860c319137074465b1f3af9d4ca7e4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/b72326ebc58ae513a4b2ca23b3b41f53/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/b1ff8782cfcecfc397dad65b90e9c690/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/297513304d2f985dda3a517f5af1ea7c/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/bf204cc5d1ee021a0b779a40e33c278f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/f7ca91eab21575eed2a0be5b1b02101f/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/0e741046a937ab091b9e076b813b3774/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:4:7-32
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera2.full
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:7:19-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:10:19-67
+application
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:12:5-21:19
+MERGED from [androidx.core:core:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/cc3b82abf76348c8aa8d82e93666f74c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/cc3b82abf76348c8aa8d82e93666f74c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:12:51-94
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:12:18-50
+activity#com.tencent.mSAM.MainActivity
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:13:9-20:20
+	android:screenOrientation
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:15:19-55
+	android:label
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:14:19-51
+	android:name
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:13:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/df63a53b8201b61e35b0f684f2c47f60/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/df63a53b8201b61e35b0f684f2c47f60/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5bda5817c2d3c7a4034191d99db2b3d5/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5bda5817c2d3c7a4034191d99db2b3d5/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/eb12f00a73b2d9ebc9dfe125af509ed1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/eb12f00a73b2d9ebc9dfe125af509ed1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/aa92256759ef0c53a213da8083e00652/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/aa92256759ef0c53a213da8083e00652/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f6bfb8387aa67fa73508f490ecd23a95/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f6bfb8387aa67fa73508f490ecd23a95/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/1b2c2bc523e43a8695e5871c17c75f28/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/1b2c2bc523e43a8695e5871c17c75f28/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/d9fc0fd948d60bd590ef43b98aaf7ec1/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/d9fc0fd948d60bd590ef43b98aaf7ec1/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f33401e088e03b4906c1e1ee487642e4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f33401e088e03b4906c1e1ee487642e4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f9294253ceb16a4605b1f28d26267b69/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/f9294253ceb16a4605b1f28d26267b69/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/3d5ce58965b903c0a1e8c29e9c793adb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/3d5ce58965b903c0a1e8c29e9c793adb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a33599820413b39306533ebcc3efaada/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a33599820413b39306533ebcc3efaada/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5494538d61a363f20d03ecac1b94dc16/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5494538d61a363f20d03ecac1b94dc16/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/cc3b82abf76348c8aa8d82e93666f74c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/cc3b82abf76348c8aa8d82e93666f74c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/af35d399d97042dd6cf76efe70e78b2d/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/af35d399d97042dd6cf76efe70e78b2d/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/56a60aa11c00550ac2067dc311230fea/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/56a60aa11c00550ac2067dc311230fea/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5c31521eb266c26ef211a1f53b56b07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/5c31521eb266c26ef211a1f53b56b07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/66860c319137074465b1f3af9d4ca7e4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/66860c319137074465b1f3af9d4ca7e4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/b72326ebc58ae513a4b2ca23b3b41f53/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/b72326ebc58ae513a4b2ca23b3b41f53/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/b1ff8782cfcecfc397dad65b90e9c690/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/erinoh/.gradle/caches/transforms-3/b1ff8782cfcecfc397dad65b90e9c690/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/297513304d2f985dda3a517f5af1ea7c/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/297513304d2f985dda3a517f5af1ea7c/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/bf204cc5d1ee021a0b779a40e33c278f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/bf204cc5d1ee021a0b779a40e33c278f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/f7ca91eab21575eed2a0be5b1b02101f/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/f7ca91eab21575eed2a0be5b1b02101f/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/0e741046a937ab091b9e076b813b3774/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/erinoh/.gradle/caches/transforms-3/0e741046a937ab091b9e076b813b3774/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/AndroidManifest.xml

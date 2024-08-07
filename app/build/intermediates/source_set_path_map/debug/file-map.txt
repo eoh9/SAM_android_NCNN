@@ -1,0 +1,11 @@
+com.tencent.mSAM.app-media-1.0.0-0 /Users/erinoh/.gradle/caches/transforms-3/582a08d95629e1c5c09588cfdd338612/transformed/media-1.0.0/res
+com.tencent.mSAM.app-core-1.0.0-1 /Users/erinoh/.gradle/caches/transforms-3/a30ee7a61fe7396ebe40d44700d94ec6/transformed/core-1.0.0/res
+com.tencent.mSAM.app-coordinatorlayout-1.0.0-2 /Users/erinoh/.gradle/caches/transforms-3/d9fc0fd948d60bd590ef43b98aaf7ec1/transformed/coordinatorlayout-1.0.0/res
+com.tencent.mSAM.app-pngs-3 /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/build/generated/res/pngs/debug
+com.tencent.mSAM.app-resValues-4 /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/build/generated/res/resValues/debug
+com.tencent.mSAM.app-rs-5 /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/build/generated/res/rs/debug
+com.tencent.mSAM.app-mergeDebugResources-6 /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.tencent.mSAM.app-mergeDebugResources-7 /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.tencent.mSAM.app-merged_res-8 /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/build/intermediates/merged_res/debug
+com.tencent.mSAM.app-debug-9 /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/debug/res
+com.tencent.mSAM.app-main-10 /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/res

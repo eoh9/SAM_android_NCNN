@@ -1,0 +1,7 @@
+Executable : /Users/erinoh/Library/Android/sdk/cmake/3.22.1/bin/ninja
+arguments : 
+-C
+/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a
+mSAM_mnn
+jvmArgs : 
+

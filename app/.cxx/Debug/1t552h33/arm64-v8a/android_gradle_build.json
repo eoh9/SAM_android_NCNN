@@ -1,0 +1,55 @@
+{
+  "buildFiles": [
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/CMakeLists.txt",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-config-version.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-config.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-targets-release.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-targets.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVConfig.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVModules-release.cmake",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVModules.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/erinoh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/.cxx/Debug/1t552h33/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/erinoh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/.cxx/Debug/1t552h33/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mSAM_mnn::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "mSAM_mnn",
+      "output": "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/build/intermediates/cxx/Debug/1t552h33/obj/arm64-v8a/libmSAM_mnn.so",
+      "runtimeFiles": [
+        "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/mnn/arm64-v8a/libMNN.so",
+        "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/mnn/arm64-v8a/libMNN_CL.so",
+        "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/mnn/arm64-v8a/libMNN_Express.so",
+        "/Users/erinoh/Desktop/mobileSAM-Android-MNN/app/src/main/jni/mnn/arm64-v8a/libMNNOpenCV.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/erinoh/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/erinoh/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

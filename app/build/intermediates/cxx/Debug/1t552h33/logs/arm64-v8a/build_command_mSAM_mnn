@@ -1,0 +1,4 @@
+/Users/erinoh/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/erinoh/Desktop/mobileSAM-Android-MNN/app/.cxx/Debug/1t552h33/arm64-v8a \
+  mSAM_mnn

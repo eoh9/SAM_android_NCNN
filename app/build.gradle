@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    namespace 'com.tencent.mSAM'
+    compileSdkVersion 29
+    buildToolsVersion "34.0.0"
+
+    defaultConfig {
+        applicationId "com.tencent.mSAM"
+        archivesBaseName = "$applicationId"
+        minSdkVersion 24
+        externalNativeBuild {
+            cmake {
+                arguments "-DANDROID_STL=c++_shared"
+                abiFilters 'arm64-v8a', 'armeabi-v7a'
+            }
+        }
+        buildTypes{
+            debug {
+                jniDebuggable true
+                debuggable true
+            }
+            customDebugType{
+                debuggable true
+                jniDebuggable true
+            }
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            version "3.22.1"
+            path file('src/main/jni/CMakeLists.txt')
+        }
+    }
+
+}
+dependencies {
+    //implementation 'androidx.core:core:1.13.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+}
+
+

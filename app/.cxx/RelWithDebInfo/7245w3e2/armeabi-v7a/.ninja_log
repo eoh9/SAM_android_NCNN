@@ -1,0 +1,5 @@
+# ninja log v5
+0	376	1723004523338362292	CMakeFiles/mSAM_mnn.dir/ndkcamera.cpp.o	327e3a24e0dd84d
+0	426	1723004523387701675	CMakeFiles/mSAM_mnn.dir/jni_intereface.cpp.o	3ed9c0abffbc4f2e
+0	724	1723004523684552164	CMakeFiles/mSAM_mnn.dir/sam.cpp.o	130bc7090c26775
+724	847	1723004523784029084	/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/build/intermediates/cxx/RelWithDebInfo/7245w3e2/obj/armeabi-v7a/libmSAM_mnn.so	10729f0adecd8ca0

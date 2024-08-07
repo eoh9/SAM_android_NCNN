@@ -1,0 +1,71 @@
+{
+  "buildFiles": [
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/CMakeLists.txt",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-config-version.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-config.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-targets-release.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-targets.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVConfig.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVModules-release.cmake",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/jni/abi-arm64-v8a/OpenCVModules.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/erinoh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/erinoh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mSAM_mnn::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "mSAM_mnn",
+      "output": "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/build/intermediates/cxx/Debug/2y536h19/obj/arm64-v8a/libmSAM_mnn.so",
+      "runtimeFiles": [
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/libncnn.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/staticlibs/arm64-v8a/libopencv_core.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/staticlibs/arm64-v8a/libopencv_imgproc.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/staticlibs/arm64-v8a/libopencv_highgui.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/mnn/arm64-v8a/libMNN.so\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/mnn/arm64-v8a/libMNN_CL.so\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/mnn/arm64-v8a/libMNN_Express.so\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/mnn/arm64-v8a/libMNNOpenCV.so\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/-fopenmp",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/-static-openmp",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/-Wl,-wrap,__kmp_affinity_determine_capable",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/libglslang.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/libSPIRV.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/libMachineIndependent.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/libOGLCompiler.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/libOSDependent.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/-pthread",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/ncnn-20230517-android-vulkan/arm64-v8a/lib/libGenericCodeGen.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/staticlibs/arm64-v8a/libopencv_imgproc.a\"",
+        "/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/.cxx/Debug/2y536h19/arm64-v8a/\"/Users/erinoh/Downloads/mobileSAM-Android-MNN-main 2/app/src/main/jni/opencv-mobile-3.4.18-android/sdk/native/staticlibs/arm64-v8a/libopencv_core.a\""
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/erinoh/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/erinoh/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
